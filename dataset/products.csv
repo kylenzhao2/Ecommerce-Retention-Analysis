@@ -1,0 +1,161 @@
+product_id,product_name,category,subcategory,unit_price,unit_cost,active
+1,Modern Wireless Earbuds,Electronics,Headphones,134.64,56.14,1
+2,Signature Wireless Earbuds,Electronics,Headphones,198.54,71.26,1
+3,Portable Wireless Earbuds,Electronics,Headphones,101.49,55.31,1
+4,Ultra Over-Ear Headphones,Electronics,Headphones,271.33,160.85,0
+5,Pro Smart Thermostat,Electronics,Smart Home,135.87,56.33,1
+6,Classic Smart Plug,Electronics,Smart Home,180.27,82.51,1
+7,Original Video Doorbell,Electronics,Smart Home,33.9,16.54,1
+8,Classic Smart Thermostat,Electronics,Smart Home,255.14,152.78,1
+9,Signature Video Doorbell,Electronics,Smart Home,98.65,36.59,1
+10,Advanced USB-C Cable,Electronics,Cables & Chargers,116.26,44.21,1
+11,Compact Power Bank,Electronics,Cables & Chargers,176.03,72.67,1
+12,Signature USB-C Cable,Electronics,Cables & Chargers,291.22,148.59,1
+13,Everyday Car Charger,Electronics,Cables & Chargers,132.43,83.12,1
+14,Eco Wireless Charger,Electronics,Cables & Chargers,156.06,90.59,0
+15,Original USB-C Cable,Electronics,Cables & Chargers,152.22,65.5,1
+16,Eco USB Hub,Electronics,Laptop Accessories,232.17,142.88,1
+17,Essential USB Hub,Electronics,Laptop Accessories,75.74,43.44,1
+18,Lightweight Cooling Pad,Electronics,Laptop Accessories,268.84,123.29,1
+19,Portable USB Hub,Electronics,Laptop Accessories,229.68,132.46,1
+20,Eco USB Hub,Electronics,Laptop Accessories,84.59,46.88,1
+21,Everyday Cooling Pad,Electronics,Laptop Accessories,274.21,134.48,1
+22,Eco Action Camera,Electronics,Cameras,399.88,230.04,1
+23,Classic Tripod,Electronics,Cameras,142.67,56.7,0
+24,Portable Tripod,Electronics,Cameras,346.45,174.02,1
+25,Advanced Tripod,Electronics,Cameras,292.94,156.05,1
+26,Signature Cotton T-Shirt,Apparel,Men's T-Shirts,66.46,23.65,1
+27,Deluxe Polo Shirt,Apparel,Men's T-Shirts,21.73,13.33,1
+28,Modern Cotton T-Shirt,Apparel,Men's T-Shirts,93.65,34.72,1
+29,Compact Graphic Tee,Apparel,Men's T-Shirts,122.84,77.89,1
+30,Deluxe Henley Shirt,Apparel,Men's T-Shirts,168.06,96.9,1
+31,Eco Sundress,Apparel,Women's Dresses,121.18,58.34,1
+32,Deluxe Maxi Dress,Apparel,Women's Dresses,49.75,22.46,1
+33,Signature Midi Dress,Apparel,Women's Dresses,49.0,18.19,1
+34,Classic Midi Dress,Apparel,Women's Dresses,164.11,99.76,1
+35,Essential Midi Dress,Apparel,Women's Dresses,124.39,51.53,1
+36,Deluxe Sundress,Apparel,Women's Dresses,143.82,85.18,1
+37,Pro Windbreaker,Apparel,Outerwear,83.16,40.76,1
+38,Premium Rain Jacket,Apparel,Outerwear,79.64,35.98,1
+39,Deluxe Puffer Jacket,Apparel,Outerwear,43.96,21.3,1
+40,Ultra Denim Jacket,Apparel,Outerwear,53.97,33.84,1
+41,Eco Leggings,Apparel,Activewear,179.88,108.07,1
+42,Compact Running Shorts,Apparel,Activewear,80.28,39.69,1
+43,Compact Leggings,Apparel,Activewear,75.67,48.85,1
+44,Essential Track Jacket,Apparel,Activewear,83.07,52.93,1
+45,Deluxe Canvas Sneakers,Apparel,Footwear,61.85,39.62,1
+46,Modern Running Shoes,Apparel,Footwear,64.69,23.61,1
+47,Premium Canvas Sneakers,Apparel,Footwear,173.41,64.86,1
+48,Eco Running Shoes,Apparel,Footwear,156.79,73.87,1
+49,Signature Canvas Sneakers,Apparel,Footwear,111.88,59.95,1
+50,Lightweight Sandals,Apparel,Footwear,55.81,30.75,1
+51,Everyday Sandals,Apparel,Footwear,33.99,18.48,1
+52,Ultra Non-Stick Pan,Home & Kitchen,Cookware,190.14,98.66,1
+53,Portable Stock Pot,Home & Kitchen,Cookware,86.91,54.75,1
+54,Pro Stock Pot,Home & Kitchen,Cookware,92.65,44.61,1
+55,Signature Cast Iron Skillet,Home & Kitchen,Cookware,295.32,174.87,1
+56,Lightweight Coffee Maker,Home & Kitchen,Small Appliances,48.94,18.82,1
+57,Essential Blender,Home & Kitchen,Small Appliances,91.71,37.89,1
+58,Portable Toaster,Home & Kitchen,Small Appliances,151.67,94.28,1
+59,Eco Coffee Maker,Home & Kitchen,Small Appliances,132.84,57.52,0
+60,Eco Blender,Home & Kitchen,Small Appliances,294.14,117.21,1
+61,Portable Air Fryer,Home & Kitchen,Small Appliances,12.8,4.77,1
+62,Advanced Cotton Sheet Set,Home & Kitchen,Bedding,117.07,60.38,1
+63,Essential Cotton Sheet Set,Home & Kitchen,Bedding,115.75,72.91,1
+64,Lightweight Cotton Sheet Set,Home & Kitchen,Bedding,113.76,63.09,1
+65,Original Memory Foam Pillow,Home & Kitchen,Bedding,172.37,105.56,1
+66,Lightweight Duvet Cover,Home & Kitchen,Bedding,279.67,170.43,1
+67,Premium Shelf Rack,Home & Kitchen,Storage & Organization,62.01,38.9,1
+68,Original Shelf Rack,Home & Kitchen,Storage & Organization,204.27,116.54,1
+69,Original Closet Organizer,Home & Kitchen,Storage & Organization,213.37,99.17,0
+70,Deluxe Shelf Rack,Home & Kitchen,Storage & Organization,67.88,42.46,1
+71,Deluxe Closet Organizer,Home & Kitchen,Storage & Organization,16.86,6.88,1
+72,Pro Table Lamp,Home & Kitchen,Decor,196.03,92.12,1
+73,Premium Table Lamp,Home & Kitchen,Decor,43.45,27.86,1
+74,Premium Table Lamp,Home & Kitchen,Decor,41.44,19.91,1
+75,Everyday Table Lamp,Home & Kitchen,Decor,185.8,93.54,1
+76,Premium Vitamin C Serum,Beauty & Personal Care,Skincare,65.54,22.97,1
+77,Pro Moisturizer,Beauty & Personal Care,Skincare,42.23,26.8,1
+78,Eco Vitamin C Serum,Beauty & Personal Care,Skincare,77.23,43.71,1
+79,Eco Vitamin C Serum,Beauty & Personal Care,Skincare,40.31,18.97,1
+80,Deluxe Moisturizer,Beauty & Personal Care,Skincare,41.32,26.12,1
+81,Everyday Leave-In Conditioner,Beauty & Personal Care,Haircare,52.03,18.22,1
+82,Original Hair Oil,Beauty & Personal Care,Haircare,54.72,29.9,1
+83,Eco Hair Oil,Beauty & Personal Care,Haircare,23.95,11.78,1
+84,Eco Hair Mask,Beauty & Personal Care,Haircare,13.12,6.62,1
+85,Classic Leave-In Conditioner,Beauty & Personal Care,Haircare,74.75,43.01,1
+86,Compact Mascara,Beauty & Personal Care,Makeup,8.05,3.41,1
+87,Ultra Foundation,Beauty & Personal Care,Makeup,40.81,21.99,1
+88,Ultra Eyeshadow Palette,Beauty & Personal Care,Makeup,39.57,15.6,1
+89,Original Foundation,Beauty & Personal Care,Makeup,41.71,16.8,1
+90,Premium Eyeshadow Palette,Beauty & Personal Care,Makeup,52.82,33.03,1
+91,Eco Perfume Rollerball,Beauty & Personal Care,Fragrance,50.62,26.2,1
+92,Signature Perfume Rollerball,Beauty & Personal Care,Fragrance,74.46,45.99,1
+93,Lightweight Perfume Rollerball,Beauty & Personal Care,Fragrance,19.37,11.79,1
+94,Advanced Body Mist,Beauty & Personal Care,Fragrance,59.56,34.53,1
+95,Essential Body Mist,Beauty & Personal Care,Fragrance,42.95,24.23,1
+96,Lightweight Nail Kit,Beauty & Personal Care,Grooming,51.37,20.11,1
+97,Modern Beard Trimmer,Beauty & Personal Care,Grooming,23.97,11.37,1
+98,Everyday Grooming Kit,Beauty & Personal Care,Grooming,11.23,6.74,1
+99,Advanced Electric Razor,Beauty & Personal Care,Grooming,79.98,41.81,1
+100,Essential Nail Kit,Beauty & Personal Care,Grooming,69.29,41.99,1
+101,Portable Grooming Kit,Beauty & Personal Care,Grooming,68.79,35.35,1
+102,Deluxe Foam Roller,Sports & Outdoors,Fitness Equipment,116.44,57.72,1
+103,Modern Foam Roller,Sports & Outdoors,Fitness Equipment,74.37,36.46,1
+104,Lightweight Adjustable Dumbbells,Sports & Outdoors,Fitness Equipment,163.67,85.0,0
+105,Compact Foam Roller,Sports & Outdoors,Fitness Equipment,348.07,140.8,1
+106,Deluxe Yoga Mat,Sports & Outdoors,Fitness Equipment,187.33,84.53,1
+107,Essential Headlamp,Sports & Outdoors,Camping Gear,335.62,164.82,1
+108,Pro Camping Tent,Sports & Outdoors,Camping Gear,97.45,36.11,1
+109,Original Camping Tent,Sports & Outdoors,Camping Gear,22.1,9.37,1
+110,Deluxe Sleeping Bag,Sports & Outdoors,Camping Gear,59.23,32.63,1
+111,Ultra Sleeping Bag,Sports & Outdoors,Camping Gear,282.79,164.04,1
+112,Original Camping Tent,Sports & Outdoors,Camping Gear,329.53,210.71,1
+113,Signature Bike Light Set,Sports & Outdoors,Cycling,274.17,174.77,1
+114,Classic Bike Lock,Sports & Outdoors,Cycling,240.92,144.35,1
+115,Advanced Bike Light Set,Sports & Outdoors,Cycling,276.86,163.81,1
+116,Pro Bike Helmet,Sports & Outdoors,Cycling,217.77,119.44,1
+117,Advanced Yoga Block,Sports & Outdoors,Yoga,173.82,86.4,1
+118,Eco Meditation Cushion,Sports & Outdoors,Yoga,357.71,174.53,1
+119,Modern Yoga Strap,Sports & Outdoors,Yoga,213.48,116.38,1
+120,Ultra Yoga Towel,Sports & Outdoors,Yoga,179.87,102.4,1
+121,Advanced Yoga Strap,Sports & Outdoors,Yoga,374.5,162.41,1
+122,Signature Yoga Towel,Sports & Outdoors,Yoga,248.03,115.01,0
+123,Ultra Basketball,Sports & Outdoors,Team Sports,92.73,54.65,1
+124,Portable Volleyball,Sports & Outdoors,Team Sports,13.96,8.86,1
+125,Ultra Sports Duffel Bag,Sports & Outdoors,Team Sports,226.52,95.61,1
+126,Ultra Sports Duffel Bag,Sports & Outdoors,Team Sports,319.24,120.65,1
+127,Essential Basketball,Sports & Outdoors,Team Sports,268.94,123.9,1
+128,Everyday Volleyball,Sports & Outdoors,Team Sports,398.69,205.37,1
+129,Essential Trivia Game,Toys & Games,Board Games,36.16,13.96,1
+130,Modern Strategy Board Game,Toys & Games,Board Games,68.02,39.36,1
+131,Modern Family Card Game,Toys & Games,Board Games,62.23,35.31,1
+132,Classic Trivia Game,Toys & Games,Board Games,101.25,44.44,1
+133,Premium Trivia Game,Toys & Games,Board Games,87.3,33.87,0
+134,Portable Strategy Board Game,Toys & Games,Board Games,40.72,25.78,1
+135,Classic Chess Set,Toys & Games,Board Games,105.74,55.22,1
+136,Compact Magnetic Tiles,Toys & Games,Building Sets,116.14,49.45,1
+137,Advanced Building Blocks Set,Toys & Games,Building Sets,15.32,7.62,1
+138,Compact Building Blocks Set,Toys & Games,Building Sets,24.71,12.82,1
+139,Classic Model Kit,Toys & Games,Building Sets,70.5,33.48,1
+140,Original Model Kit,Toys & Games,Building Sets,66.53,32.28,1
+141,Essential Construction Set,Toys & Games,Building Sets,71.69,26.39,1
+142,Original Building Blocks Set,Toys & Games,Building Sets,31.27,12.92,1
+143,Compact Bubble Machine,Toys & Games,Outdoor Toys,69.82,27.72,1
+144,Essential Frisbee Set,Toys & Games,Outdoor Toys,11.66,5.09,1
+145,Classic Frisbee Set,Toys & Games,Outdoor Toys,84.99,53.3,1
+146,Everyday Bubble Machine,Toys & Games,Outdoor Toys,20.85,8.7,1
+147,Advanced Kite,Toys & Games,Outdoor Toys,23.93,8.8,1
+148,Classic Jigsaw Puzzle Set,Toys & Games,Puzzles,60.49,26.69,1
+149,Portable Wooden Puzzle,Toys & Games,Puzzles,68.48,32.96,1
+150,Modern Jigsaw Puzzle Set,Toys & Games,Puzzles,44.1,18.75,1
+151,Original 1000-Piece Puzzle,Toys & Games,Puzzles,83.3,35.89,0
+152,Ultra 3D Puzzle,Toys & Games,Puzzles,66.12,31.91,1
+153,Eco Jigsaw Puzzle Set,Toys & Games,Puzzles,99.2,63.56,1
+154,Pro Flash Cards,Toys & Games,Educational,83.05,50.44,1
+155,Essential Science Experiment Kit,Toys & Games,Educational,82.21,38.65,1
+156,Ultra STEM Kit,Toys & Games,Educational,17.86,7.6,1
+157,Advanced Science Experiment Kit,Toys & Games,Educational,65.63,42.43,1
+158,Everyday Science Experiment Kit,Toys & Games,Educational,14.07,7.11,1
+159,Eco Science Experiment Kit,Toys & Games,Educational,57.51,21.02,1
+160,Lightweight Learning Tablet,Toys & Games,Educational,40.26,24.73,1
